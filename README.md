@@ -2,9 +2,9 @@ I tried to make the Flappy Bird game. Pipes spawn at random positions. We collec
 
 <br />
 
-Youtube Video:
+Youtube:
 <br /><br />
-[![FlappyBird](https://ytcards.demolab.com/?id=-g6ys0U8-V4&t=2s&title=Flappy+Bird&lang=en&timestamp=1714417380&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "FlappyBird")](https://www.youtube.com/watch?v=-g6ys0U8-V4&t=2s)
+[![FlappyBird](https://ytcards.demolab.com/?id=-g6ys0U8-V4&t=2s&title=FlappyBird&lang=en&timestamp=1714417380&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "FlappyBird")](https://www.youtube.com/watch?v=-g6ys0U8-V4&t=2s)
 
 <br />
 
